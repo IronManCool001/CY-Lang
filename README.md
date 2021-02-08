@@ -1,7 +1,2 @@
-**Cy Language** is a language made by me.It is still in development.
+**Cy Language** is a language made by me.It is made by following interpreter
 
-Run the following code to test cy
-
-```console
-python interpreter.py cy index.cy
-```
